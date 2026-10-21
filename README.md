@@ -1,7 +1,4 @@
-# DSR Trips
+# Moved
 
-Trips shared from DSR Travel Journal (Edit trip › Share whole trip (link)).
-Each trip is a folder in `trips/`: `trip.json` plus one `.jpg` per photo.
-To stop sharing a trip, delete its folder.
-
-This repository is public: anyone can see the trips in it.
+Our travels (DSR Travel Journal's shared trips) moved to https://dsr-trips.pages.dev on 21 Oct 2026.
+These pages only forward links that were sent before then.
